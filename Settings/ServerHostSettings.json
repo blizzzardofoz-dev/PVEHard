@@ -1,0 +1,22 @@
+﻿{
+  "Name": "Blizz Rising",
+  "Description": "",
+  "Port": 9876,
+  "QueryPort": 9877,
+  "MaxConnectedUsers": 10,
+  "MaxConnectedAdmins": 4,
+  "ServerFps": 30,
+  "Password": "mtg",
+  "Secure": true,
+  "ListOnMasterServer": true,
+  "AutoSaveCount": 50,
+  "AutoSaveInterval": 600,
+  "GameSettingsPreset": "",
+  "AdminOnlyDebugEvents": true,
+  "DisableDebugEvents": false,
+  "Rcon": {
+    "Enabled": false,
+    "Port": 25575,
+    "Password": ""
+  }
+}
