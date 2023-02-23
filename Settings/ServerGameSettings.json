@@ -25,19 +25,19 @@
   "DropTableModifier_General": 0.75,
   "DropTableModifier_Missions": 1.0,
   "MaterialYieldModifier_Global": 0.75,
-  "BloodEssenceYieldModifier": 0.75,
+  "BloodEssenceYieldModifier": 0.5,
   "JournalVBloodSourceUnitMaxDistance": 25.0,
   "PvPVampireRespawnModifier": 1.0,
   "CastleMinimumDistanceInFloors": 1,
   "ClanSize": 4,
-  "BloodDrainModifier": 2.5,
-  "DurabilityDrainModifier": 2.5,
+  "BloodDrainModifier": 1.5,
+  "DurabilityDrainModifier": 2.0,
   "GarlicAreaStrengthModifier": 1.0,
   "HolyAreaStrengthModifier": 1.0,
   "SilverStrengthModifier": 1.0,
-  "SunDamageModifier": 5.0,
-  "CastleDecayRateModifier": 0.25,
-  "CastleBloodEssenceDrainModifier": 0.25,
+  "SunDamageModifier": 4.0,
+  "CastleDecayRateModifier": 1.0,
+  "CastleBloodEssenceDrainModifier": 1.0,
   "CastleSiegeTimer": 420.0,
   "CastleUnderAttackTimer": 60.0,
   "AnnounceSiegeWeaponSpawn": true,
@@ -61,13 +61,13 @@
   "UnlockedResearchs": [],
   "GameTimeModifiers": {
     "DayDurationInSeconds": 1800.0,
-    "DayStartHour": 10,
+    "DayStartHour": 9,
     "DayStartMinute": 30,
-    "DayEndHour": 13,
+    "DayEndHour": 14,
     "DayEndMinute": 30,
     "BloodMoonFrequency_Min": 6,
     "BloodMoonFrequency_Max": 12,
-    "BloodMoonBuff": 0.25
+    "BloodMoonBuff": 0.5
   },
   "VampireStatModifiers": {
     "MaxHealthModifier": 1.0,
@@ -80,17 +80,17 @@
     "ReviveCancelDelay": 5.0
   },
   "UnitStatModifiers_Global": {
-    "MaxHealthModifier": 1.5,
-    "PowerModifier": 1.25
+    "MaxHealthModifier": 1,
+    "PowerModifier": 1.5
   },
   "UnitStatModifiers_VBlood": {
-    "MaxHealthModifier": 2.0,
-    "PowerModifier": 1.75
+    "MaxHealthModifier": 1.5,
+    "PowerModifier": 2.0
   },
   "EquipmentStatModifiers_Global": {
     "MaxEnergyModifier": 1.0,
     "MaxHealthModifier": 1.0,
-    "ResourceYieldModifier": 2.0,
+    "ResourceYieldModifier": 3.0,
     "PhysicalPowerModifier": 1.0,
     "SpellPowerModifier": 1.0,
     "SiegePowerModifier": 1.0,
