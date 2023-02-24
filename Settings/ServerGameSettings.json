@@ -67,7 +67,7 @@
     "DayEndMinute": 30,
     "BloodMoonFrequency_Min": 6,
     "BloodMoonFrequency_Max": 12,
-    "BloodMoonBuff": 0.5
+    "BloodMoonBuff": 0.2
   },
   "VampireStatModifiers": {
     "MaxHealthModifier": 1.0,
