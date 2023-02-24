@@ -5,3 +5,6 @@ Saves/v1/PVEHard/
 Logs/
 Logs/*
 Logs/PVEHard.log
+Settings/adminlist.txt
+Settings/banlist.txt
+Settings/ServerHostSettings.json
