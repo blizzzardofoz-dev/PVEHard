@@ -35,7 +35,7 @@
   "GarlicAreaStrengthModifier": 1.0,
   "HolyAreaStrengthModifier": 1.0,
   "SilverStrengthModifier": 1.0,
-  "SunDamageModifier": 1.0,
+  "SunDamageModifier": 0.25,
   "CastleDecayRateModifier": 0.25,
   "CastleBloodEssenceDrainModifier": 0.25,
   "CastleSiegeTimer": 420.0,
@@ -60,31 +60,31 @@
   "UnlockedAchievements": [],
   "UnlockedResearchs": [],
   "GameTimeModifiers": {
-    "DayDurationInSeconds": 1800.0,
-    "DayStartHour": 9,
+    "DayDurationInSeconds": 900.0,
+    "DayStartHour": 8,
     "DayStartMinute": 30,
-    "DayEndHour": 14,
+    "DayEndHour": 15,
     "DayEndMinute": 30,
-    "BloodMoonFrequency_Min": 6,
-    "BloodMoonFrequency_Max": 12,
-    "BloodMoonBuff": 0.2
+    "BloodMoonFrequency_Min": 1,
+    "BloodMoonFrequency_Max": 5,
+    "BloodMoonBuff": 0.8
   },
   "VampireStatModifiers": {
-    "MaxHealthModifier": 1.0,
-    "MaxEnergyModifier": 1.0,
+    "MaxHealthModifier": 1.5,
+    "MaxEnergyModifier": 1.5,
     "PhysicalPowerModifier": 1.25,
-    "SpellPowerModifier": 1.25,
+    "SpellPowerModifier": 1.5,
     "ResourcePowerModifier": 1.0,
     "SiegePowerModifier": 1.0,
     "DamageReceivedModifier": 1.0,
     "ReviveCancelDelay": 5.0
   },
   "UnitStatModifiers_Global": {
-    "MaxHealthModifier": 1,
+    "MaxHealthModifier": 1.0,
     "PowerModifier": 1.5
   },
   "UnitStatModifiers_VBlood": {
-    "MaxHealthModifier": 1.5,
+    "MaxHealthModifier": 1.0,
     "PowerModifier": 2.0
   },
   "EquipmentStatModifiers_Global": {
