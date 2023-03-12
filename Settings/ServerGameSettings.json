@@ -60,7 +60,7 @@
   "UnlockedAchievements": [],
   "UnlockedResearchs": [],
   "GameTimeModifiers": {
-    "DayDurationInSeconds": 900.0,
+    "DayDurationInSeconds": 1200.0,
     "DayStartHour": 8,
     "DayStartMinute": 30,
     "DayEndHour": 15,
@@ -72,7 +72,7 @@
   "VampireStatModifiers": {
     "MaxHealthModifier": 1.5,
     "MaxEnergyModifier": 1.5,
-    "PhysicalPowerModifier": 1.25,
+    "PhysicalPowerModifier": 1.5,
     "SpellPowerModifier": 1.5,
     "ResourcePowerModifier": 1.0,
     "SiegePowerModifier": 1.0,
@@ -84,15 +84,15 @@
     "PowerModifier": 1.5
   },
   "UnitStatModifiers_VBlood": {
-    "MaxHealthModifier": 1.0,
+    "MaxHealthModifier": 1.5,
     "PowerModifier": 2.0
   },
   "EquipmentStatModifiers_Global": {
     "MaxEnergyModifier": 1.0,
     "MaxHealthModifier": 1.0,
     "ResourceYieldModifier": 3.0,
-    "PhysicalPowerModifier": 1.0,
-    "SpellPowerModifier": 1.0,
+    "PhysicalPowerModifier": 1.5,
+    "SpellPowerModifier": 1.5,
     "SiegePowerModifier": 1.0,
     "MovementSpeedModifier": 1.0
   },
